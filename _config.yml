@@ -1,0 +1,28 @@
+name: aimara
+favicon: null
+layout_spectrum: 0.16565556963905692
+typography_spectrum: 0.08300742111168802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.569137142971158
+  lightness: 0.5951856812462211
+  saturation: 0.9618777900468558
+  rhythmicContrast: 0.38513392163440585
+purpose: []
