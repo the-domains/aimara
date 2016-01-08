@@ -1,7 +1,7 @@
 name: aimara
 favicon: null
-layout_spectrum: 0.16565556963905692
-typography_spectrum: 0.08300742111168802
+layout_spectrum: 0
+typography_spectrum: 0.62938
 title: aimará en su nueva etapa
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.569137142971158
-  lightness: 0.5951856812462211
-  saturation: 0.9618777900468558
-  rhythmicContrast: 0.38513392163440585
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
